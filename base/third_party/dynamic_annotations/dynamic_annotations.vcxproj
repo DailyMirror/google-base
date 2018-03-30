@@ -93,7 +93,7 @@
       <AdditionalLibraryDirectories>
       </AdditionalLibraryDirectories>
       <AdditionalOptions>/ignore:4221 %(AdditionalOptions)</AdditionalOptions>
-      <OutputFile>$(OutDir)lib\$(ProjectName)d$(TargetExt)</OutputFile>
+      <OutputFile>$(OutDir)lib\$(TargetName)$(TargetExt)</OutputFile>
       <AdditionalDependencies>
       </AdditionalDependencies>
     </Lib>
